@@ -1,0 +1,15 @@
+ROAD MAP
+
+1. Introduction
+
+2. DATA
+
+3. ML model
+
+4. Data loading and preprocessing
+
+5. Feature Engineering
+
+6. Model Making
+
+7. Results
